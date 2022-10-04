@@ -1,0 +1,15 @@
+C:\Users\Gregory\source\repos\hola\hola\bin\Debug\net6.0\hola.exe
+C:\Users\Gregory\source\repos\hola\hola\bin\Debug\net6.0\hola.deps.json
+C:\Users\Gregory\source\repos\hola\hola\bin\Debug\net6.0\hola.runtimeconfig.json
+C:\Users\Gregory\source\repos\hola\hola\bin\Debug\net6.0\hola.dll
+C:\Users\Gregory\source\repos\hola\hola\bin\Debug\net6.0\hola.pdb
+C:\Users\Gregory\source\repos\hola\hola\obj\Debug\net6.0\hola.csproj.AssemblyReference.cache
+C:\Users\Gregory\source\repos\hola\hola\obj\Debug\net6.0\hola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gregory\source\repos\hola\hola\obj\Debug\net6.0\hola.AssemblyInfoInputs.cache
+C:\Users\Gregory\source\repos\hola\hola\obj\Debug\net6.0\hola.AssemblyInfo.cs
+C:\Users\Gregory\source\repos\hola\hola\obj\Debug\net6.0\hola.csproj.CoreCompileInputs.cache
+C:\Users\Gregory\source\repos\hola\hola\obj\Debug\net6.0\hola.dll
+C:\Users\Gregory\source\repos\hola\hola\obj\Debug\net6.0\refint\hola.dll
+C:\Users\Gregory\source\repos\hola\hola\obj\Debug\net6.0\hola.pdb
+C:\Users\Gregory\source\repos\hola\hola\obj\Debug\net6.0\hola.genruntimeconfig.cache
+C:\Users\Gregory\source\repos\hola\hola\obj\Debug\net6.0\ref\hola.dll
